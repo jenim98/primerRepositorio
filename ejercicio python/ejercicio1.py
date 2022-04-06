@@ -1,0 +1,5 @@
+print ("Ejercicio Nùmero 1")
+print ("Bienvenido")
+Nombre = input ("Escriba su nombre: ")
+print ("Hola, " + Nombre)
+print (f"Hola, {Nombre}")
